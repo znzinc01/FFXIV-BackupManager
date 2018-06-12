@@ -17,7 +17,7 @@
   "restore_success": "Restore success",
   "restore_failed": "Restore failed",
   "restore_cancelled": "Restore cancelled",
-  "restore_warning": "Are you sure you want to restore from this file?\nALL CURRENT FFXIV DATA(except screenshots) WILL BE DELETED before resotarion.",
+  "restore_warning": "Are you sure you want to restore from this file?\nALL CURRENT FFXIV DATA(except screenshots) WILL BE DELETED before restoring.",
   "info": "Info",
   "settings": "Settings",
   "reset_settings": "Reset Settings",
