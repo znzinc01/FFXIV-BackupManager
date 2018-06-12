@@ -1,0 +1,10 @@
+{
+  "general": {
+    "first_run": 0,
+    "locale": "ko_KR"
+  },
+  "recent": {
+    "ffxiv_data_folder": "",
+    "backup_destination": ""
+  }
+}
