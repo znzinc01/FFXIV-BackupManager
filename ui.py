@@ -18,7 +18,7 @@ try:
     # Read Settings File
     with open("./resource/settings.json") as settings_file:
         settings = json.loads(settings_file.read())
-    default_settings = {"general": {"first_run": 0,"locale": ""},
+    default_settings = {"general": {"first_run": 1, "locale": ""},
                         "recent": {"ffxiv_data_folder": "", "backup_destination": ""}
                        }
 
